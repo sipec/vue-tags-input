@@ -32,10 +32,10 @@ export default {
   background-color: transparent;
   color: inherit;
   border: none;
-  padding: 0px;
-  margin: 0px;
+  padding: 0;
+  margin: 0;
   display: flex;
-  top: 0px;
+  top: 0;
   position: absolute;
   width: 100%;
   line-height: inherit;

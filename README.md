@@ -26,12 +26,12 @@ Forked from [@johmun/vue-tags-input](https://www.npmjs.com/package/@johmun/vue-t
 
 NPM
 ```
-npm install @sipec/vue3-tags-input
+npm install @fujiechen/vue3-tags-input
 ```
 
 CDN
 ```
-<script src="https://unpkg.com/@sipec/vue3-tags-input/dist/vue-tags-input.js"></script>
+<script src="https://unpkg.com/@fujiechen/vue3-tags-input/dist/vue-tags-input.js"></script>
 ```
 
 ## Usage
@@ -50,7 +50,7 @@ CDN
 
 ```javascript
 <script>
-import VueTagsInput from "@sipec/vue3-tags-input";
+import VueTagsInput from "@fujiechen/vue3-tags-input";
 
 export default {
   components: {
@@ -74,4 +74,4 @@ This version is faithful to the original spec. The only thing you'll have to cha
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2019 Johannes Munari
+Copyright (c) 2023 Fujie Chen
